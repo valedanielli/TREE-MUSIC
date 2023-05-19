@@ -285,6 +285,11 @@ video {
     text-align: center;
 }
 
+#text-button {
+    color: black;
+    font-size: 150%;
+}
+
 
     
     @media all and (max-width: 1690px) { ...}
