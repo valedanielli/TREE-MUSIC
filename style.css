@@ -207,6 +207,8 @@ span {
          .home-text{
             display: none;
         }
+        #home-text1{
+            displey: none}
      }
     
      @media (min-width:481px) and (max-width: 1690px)  { 
