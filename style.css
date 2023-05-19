@@ -95,6 +95,11 @@ margin-top: 50px;
     font-size: 2em;  
   
 }
+#home-text2{
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;  
+  
+}
 p {
     font-family: 'Anton', sans-serif;
     margin-left: 40px;  
@@ -172,7 +177,7 @@ span {
         
          .progetto-text{
             margin-left: -10px;}
-         #home-text1{
+         #home-text2{
             font-size: 150%;
             margin-right: 5%;
             margin-left: 5%;}
