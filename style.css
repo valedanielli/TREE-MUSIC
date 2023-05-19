@@ -194,6 +194,8 @@ span {
         h2{
             font-size: 150%;
         }
+        #home-text1{
+            dispay: none}
      }
     
      @media (min-width:481px) and (max-width: 1690px)  { 
@@ -210,6 +212,8 @@ span {
         .home-link-mobile{
             display: none;
         }
+        #home-text2{
+            display:none}
         
     }
     
