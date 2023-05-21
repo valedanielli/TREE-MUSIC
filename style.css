@@ -176,6 +176,15 @@ span {
     footer {
     width: 100%;
     }
+
+    .img-footer{
+        width: 30%;
+        margin-bottom: -7%;
+    }
+    
+    .imgfooter{
+        text-align: center;
+    }
     
 
     @media all and (max-width: 480px) {
@@ -216,6 +225,12 @@ span {
         #home-text1{
             display: none;
         }
+           .img-footer{
+         width: 70%;
+        margin-bottom: -17%;}
+        .imgfooter{
+        
+        text-align: center;}
      }
     
      @media (min-width:481px) and (max-width: 1690px)  { 
@@ -226,9 +241,7 @@ span {
         .music-mobile{
             display: none;
         }
-        .imgfooter{
-            display: none;
-        }
+     
         .home-link-mobile{
             display: none;
         }
