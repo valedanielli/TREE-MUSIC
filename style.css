@@ -297,6 +297,59 @@ span {
     font-size: 150%;
 }
 
+#img-wireframe{
+    width: 40%;
+}
+.WIREFRAME{
+    text-align: center;
+}
+
+.STRUTTURA-ALBERO{
+text-align: center;
+}
+
+#img-albero{
+    width: 60%;
+}
+
+#promozione-insta{
+    width: 60%;
+}
+#post-promozione{
+    width: 45%;
+}
+
+#views-img{
+    width: 100%;
+}
+
+#like{
+    width: 45%;
+}
+
+.nav-link-documentazione{
+    color: #2f219d;
+}
+
+h3{
+    color: #e7e4e3;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Chango', cursive;
+    margin-bottom: 30px;   
+}
+
+h4{
+    color: #e7e4e3;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Chango', cursive;
+    margin-bottom: 30px;  
+}
+
+.title-documentazione{
+    color: #2f219d;
+}
 
     
     @media all and (max-width: 1690px) { ...}
