@@ -350,6 +350,15 @@ h4{
 .title-documentazione{
     color: #2f219d;
 }
+h1 {
+    color: #2f219d;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Chango', cursive;
+    margin-bottom: 30px;
+
+    
+}
 
     
     @media all and (max-width: 1690px) { ...}
