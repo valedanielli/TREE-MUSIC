@@ -18,26 +18,12 @@ font-size: 90%;
     text-align: center; 
 }
 
-.nav-link1 {
-    color: #e7e4e3;
-    text-align: center;
-   
+.nav-link:hover{
+    color: #ff0017;
 }
-.nav-link2 {
-    color: #e7e4e3;
-    text-align: center;
+.nav-link:active {
+    color: #ff0017;
 }
-.nav-link3 {
-    color: #e7e4e3;
-    text-align: center;
-}
-.nav-link4 {
-    color: #e7e4e3;
-    text-align: center;
-}
-
-
-
 
 h2 {
     color: #e7e4e3;
