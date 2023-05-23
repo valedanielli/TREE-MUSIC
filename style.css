@@ -232,6 +232,13 @@ span {
         .imgfooter{
         
         text-align: center;}
+             h1{
+            font-size: 130%;
+            
+        }
+        .title-documentazione{
+            font-size: 110%;
+        }
      }
     
      @media (min-width:481px) and (max-width: 1690px)  { 
@@ -351,7 +358,7 @@ h4{
     color: #2f219d;
 }
 h1 {
-    color: #2f219d;
+    color: #e7e4e3;
     margin-top: 30px;
     margin-left: 40px;
     font-family: 'Chango', cursive;
@@ -359,7 +366,12 @@ h1 {
 
     
 }
-
+.h1-documentazione{
+       color: #2f219d;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Chango', cursive;
+    margin-bottom: 30px;
     
     @media all and (max-width: 1690px) { ...}
     @media all and (max-width: 1280px) { ...}
